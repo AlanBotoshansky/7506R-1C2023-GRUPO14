@@ -1,0 +1,3 @@
+Link a la carpeta de Google Drive que contiene todos los modelos entrenados y sus respectivas predicciones sobre el dataset de test:
+
+https://drive.google.com/drive/folders/1GyHkFuu4ON9A1GneaTa0X_IVKx3q9yHx?usp=sharing
